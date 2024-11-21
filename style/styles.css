@@ -1,0 +1,35 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header ul, header h1 {
+    display: flex;
+    justify-content: space-around;
+
+}
+main {
+    text-align: center;
+}
+
+main ul {
+    text-align: left;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-evenly;
+}
